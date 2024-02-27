@@ -1,11 +1,13 @@
-Opa sejam bem-vindo 
+# 💻 Seja bem vindo
 
-<!--
-**Intexsz/Intexsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="right" alt="Hello world!" src="https://github.com/Intexsz/Intexsz/assets/160973724/9646ee7c-0d68-4b05-9106-5e47b9034aca"  width="300px"/>
 
 
-- Estudando
-- Viciado em jogar
-- Apaixonado em Desenvolvimentos games
-- Sempre buscando evolução
+- Sempre aprendendo coisas novas
+- Viciado em estudar
+- Apaixonado por desenvolvimento games
+- Tentando sempre evoluir
+
+### GitHub Status
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
