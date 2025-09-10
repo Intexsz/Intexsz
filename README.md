@@ -1,6 +1,5 @@
-# 💻 Seja bem vindo
+# Salve
 
-<img align="right" alt="Hello world!" src="https://github.com/Intexsz/Intexsz/assets/160973724/9646ee7c-0d68-4b05-9106-5e47b9034aca"  width="300px"/>
 
 
 - Sempre aprendendo coisas novas
