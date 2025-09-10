@@ -4,8 +4,7 @@
 
 
 - Sempre aprendendo coisas novas
-- Viciado em estudar
-- Apaixonado por desenvolvimento games
+- Apaixonado por desenvolvimento 
 - Tentando sempre evoluir
 
 ### GitHub Status
