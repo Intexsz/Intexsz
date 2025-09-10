@@ -2,8 +2,7 @@
 
 
 
-- Sempre aprendendo coisas novas
-- Apaixonado por desenvolvimento 
+- Sempre aprendendo coisas novas 
 - Tentando sempre evoluir
 
 ### GitHub Status
